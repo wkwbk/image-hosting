@@ -1,8 +1,5 @@
 /* 字体 */
-* {
-  font-family: "LXGW WenKai";
-}
-* {
+body {
   font-weight: bold;
 }
 body {
